@@ -1,1 +1,1 @@
-# mri-ssl-foundations
+# MRI Imaging SSL Foundations
